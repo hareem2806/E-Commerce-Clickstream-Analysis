@@ -1,4 +1,5 @@
 # E-Commerce-Clickstream-Analysis
+This project analyzes user behavior on an e-commerce platform using clickstream and transaction data. The dataset was cleaned, processed, and visualized in Power BI to generate insights into user activity, product engagement, and purchase trends.
 📂 Dataset: [https://www.kaggle.com/datasets/waqi786/e-commerce-clickstream-and-transaction-dataset]
 
 
