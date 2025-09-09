@@ -17,7 +17,7 @@ Saved cleaned dataset for visualization
 
 ## Power BI Dashboard
 
-# Key Visuals:
+Key Visuals:
 
 KPIs:
 
